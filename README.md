@@ -48,7 +48,7 @@ dependencies {
 // build.gradle.kts (Module: app)
 plugins {
     // Plugin necessário para a serialização funcionar
-    kotlin("plugin.serialization")
+    id("org.jetbrains.kotlin.plugin.serialization") version "1.9.22"
 }
 
 ```
