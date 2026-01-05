@@ -1,6 +1,6 @@
 # Retrofit Exemplo - Mars Photos 🌌
 
-Este projeto é um exemplo prático de consumo de API REST desenvolvido como parte da disciplina de **Programação para Jogos 1** do curso de **Sistemas e Mídias Digitais (SMD)** da **Universidade Federal do Ceará (UFC)**.
+Este projeto é um exemplo prático de consumo de API REST desenvolvido como parte da disciplina de **Programação para Dispositivos Móveis 1** do curso de **Sistemas e Mídias Digitais (SMD)** da **Universidade Federal do Ceará (UFC)**.
 
 O aplicativo demonstra como buscar dados da internet (neste caso, fotos reais da superfície de Marte capturadas pelos rovers da NASA) e exibi-las em uma interface construída com Jetpack Compose.
 
